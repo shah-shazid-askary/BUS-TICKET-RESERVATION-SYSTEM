@@ -57,25 +57,6 @@ By accomplishing these goals, we aim to replace traditional, time-consuming bus 
 - **Core Concepts**: Data Structures, File Handling
 - **Payment Integration**: Bkash Simulation
 
-## 🚀 Get Started
-
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/yourusername/SB-Super-Deluxe-Bus-Ticket-Reservation.git
-   ```
-2. Compile the C source code.
-   ```bash
-   gcc -o bus_reservation_system main.c
-   ```
-3. Run the system.
-   ```bash
-   ./bus_reservation_system
-   ```
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
